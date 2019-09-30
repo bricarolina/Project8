@@ -1,0 +1,18 @@
+{
+  "development": {
+    "storage": "library.db",
+    "dialect": "sqlite",
+    "operatorsAliases": false
+  },
+  "test": {
+    "storage": "library.db",
+    "dialect": "sqlite",
+    "operatorsAliases": false
+  },
+  "production": {
+    "storage": "library.db",
+    "dialect": "sqlite",
+    "operatorsAliases": false
+  }
+}
+
